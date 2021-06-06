@@ -26,6 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 [AWS Reference Architectures](https://aws.amazon.com/architecture/)
+[Systems Engineering Process from Mitre](https://www.mitre.org/publications/systems-engineering-guide/se-lifecycle-building-blocks/requirements-engineering/eliciting-collecting-and-developing-requirements)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
